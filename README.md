@@ -1,4 +1,4 @@
-# README
+# authentication
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+👤 **Muhammed Cihad Kurel**
+
+- Github: [@mcihadkurel](https://github.com/mcihadkurel)
+- Twitter: [@mece_ka](https://twitter.com/mece_ka)
+- LinkedIn: [@muhammed](https://www.linkedin.com/in/muhammed-cihad-8187581a8/)
